@@ -16,8 +16,8 @@ st.set_page_config(
 # LOAD MODELS
 # ---------------------------
 
-box_model = joblib.load(r"C:\Users\DELL\OneDrive\Desktop\Movie_success_prediction\models\box_office_prediction_model.pkl")
-success_model = joblib.load(r"C:\Users\DELL\OneDrive\Desktop\Movie_success_prediction\models\success_prediction_model.pkl")
+box_model = joblib.load("models/box_office_prediction_model.pkl")
+success_model = joblib.load("models/success_prediction_model.pkl")
 
 # Replace with MAE from notebook
 MAE = 25000000

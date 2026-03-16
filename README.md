@@ -215,8 +215,6 @@ The application can be deployed using:
 • Hugging Face Spaces
 • Render
 
-```
-
 ---
 
 # 📊 Example Insights

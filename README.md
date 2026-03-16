@@ -11,6 +11,13 @@ The system provides **two key capabilities**:
 
 ---
 
+## Live Demo
+
+Try the deployed app here:
+https://movie-success-prediction-model.streamlit.app/
+
+---
+
 # 📊 Project Objectives
 
 The main goals of this project are:
